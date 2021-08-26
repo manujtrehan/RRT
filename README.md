@@ -1,3 +1,6 @@
+# Output
+![Image](https://github.com/manujtrehan/RRT/blob/main/output/rrt.jpg)
+
 # RRT
 An implementation of Rapidly-exploring Random Trees in 2D
 
